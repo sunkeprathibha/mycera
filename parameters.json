@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "vaults_keysecret12134_name": {
+            "value": null
+        },
+        "sites_webapp114fqjid62chwq2_name": {
+            "value": null
+        },
+        "sites_webapp124fqjid62chwq2_name": {
+            "value": null
+        },
+        "sites_webapp134fqjid62chwq2_name": {
+            "value": null
+        },
+        "servers_sqlserver1284fqjid62chwq2_name": {
+            "value": null
+        },
+        "serverfarms_appserviceplannageswar_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccount171088_name": {
+            "value": null
+        }
+    }
+}
